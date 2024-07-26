@@ -1,0 +1,40 @@
+img.logo {
+    height: 20px !important;
+}
+
+@font-face {
+    font-family: iransans;
+    src: url(../../font/IRANSansWeb.woff2);
+}
+
+
+* {
+    font-family: iransans, sans-serif;
+}
+input{
+    font-family: sans-serif !important;
+}
+
+th.px-4.py-2.whitespace-nowrap.font-medium.text-sm.text-gray-600 {
+    text-align: right;
+}
+
+trix-editor > ul {
+    margin-right: 18px;
+}
+
+.ck-editor__main .ck-content ol li {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    list-style-type: decimal !important;
+    margin-right: 10px;
+}
+
+.ck-editor__main .ck-content ul li {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    list-style-type: disc !important;
+    margin-right: 10px;
+}

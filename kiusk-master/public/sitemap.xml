@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://kiusk.ca/var/www/kiusk/public/pages_sitemap.xml</loc>
+            <lastmod>2023-08-20T00:00:06-04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://kiusk.ca/var/www/kiusk/public/ads_sitemap_0.xml</loc>
+            <lastmod>2023-08-20T00:00:06-04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://kiusk.ca/var/www/kiusk/public/ads_sitemap_1.xml</loc>
+            <lastmod>2023-08-20T00:00:06-04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://kiusk.ca/var/www/kiusk/public/posts_sitemap.xml</loc>
+            <lastmod>2023-08-20T00:00:06-04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://kiusk.ca/var/www/kiusk/public/categories_sitemap.xml</loc>
+            <lastmod>2023-08-20T00:00:06-04:00</lastmod>
+    </sitemap>
+</sitemapindex>
